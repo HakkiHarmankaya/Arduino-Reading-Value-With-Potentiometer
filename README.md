@@ -3,6 +3,7 @@
 Bu projede, bir **potansiyometre** kullanarak Arduino üzerinden **analog veri okuma** işlemini gerçekleştireceğiz.  
 Serial Monitor üzerinden anlık değerleri takip edebileceğiniz şekilde tasarlanmıştır.
 
+🔗 [Web Siteme Bakmak İçin Tıkla](https://www.hakkiharmankaya.com/)
  
 🔗 [Tinkercad Tasarımını Görüntüle](https://www.tinkercad.com/things/6ruU5uRQtPS?sharecode=g58elSyOKZaZqbvXGTfWq2GqZJj3V26jLntGLdMiri0)
 
